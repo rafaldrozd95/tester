@@ -1,3 +1,2 @@
-int main() {gre
-    return 1ger
-}gregre
+def maroko:
+    return "Hello world"
